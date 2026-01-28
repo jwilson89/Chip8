@@ -4,7 +4,7 @@ A CHIP-8 emulator written in Python using Pygame for display and input handling.
 
 ## About
 
-This code was written with the help of Claude Code (Claude Haiku 4.5).
+This code was written with the help of Claude Code (Claude Opus 4.5).
 
 ## Features
 
